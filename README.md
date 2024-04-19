@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a Junior Software engineer<br>🏆 2022 ACPC Finalist<br>🧑‍💻 Currently doing Backend Development<br>🌱 I am a computer science student lvl 300 at Mansoura University<br>💬 Open for an intern or a new job opportunity<br>⚡ I know Art 🎨 stargazer 🪐 Spanish 🇪🇸 Egyptologist ✨🌙
+🔭 I'm a Junior Software engineer<br>🏆 2023 ACPC Finalist<br>🧑‍💻 Currently doing Backend Development<br>🌱 I am a computer science student lvl 300 at Mansoura University<br>💬 Open for an intern or a new job opportunity<br>⚡ I know Art 🎨 stargazer 🪐 Spanish 🇪🇸 Egyptologist ✨🌙
 
 
 ## 🌐 Socials:
@@ -39,7 +39,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) 
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
