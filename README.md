@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a Junior Software engineer<br>🏆 2023 ACPC Finalist<br>🧑‍💻 Currently doing Backend Development<br>🌱 I am a computer science student lvl 300 at Mansoura University<br>💬 Open for an intern or a new job opportunity<br>⚡ I know Art 🎨 stargazer 🪐 Spanish 🇪🇸 Egyptologist ✨🌙
+🔭 I'm a Junior Software engineer<br>🏆 2023 ACPC Finalist<br>🧑‍💻 Currently doing Backend Development<br>🌱 I am a computer science student lvl 300 at Mansoura University<br>💬 Open for an intern or a new job opportunity<br>⚡ I know Art 🎨 stargazing 🪐 some Spanish 🇪🇸 Egyptologist ✨🌙
 
 
 ## 🌐 Socials:
